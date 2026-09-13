@@ -1,7 +1,7 @@
 
 #  Sistema de Reclutamiento Interno - Liverpool
 
-Plataforma desarrollada para el **Hackathon Liverpool 2025**, diseñada para optimizar el reclutamiento interno dentro de la empresa.  
+Plataforma desarrollada para el **Hackathon Liverpool 2026**, diseñada para optimizar el reclutamiento interno dentro de la empresa.  
 Permite que **Recursos Humanos** gestione vacantes (crear, editar, eliminar) y que los **empleados** consulten y postulen.
 
 ---
